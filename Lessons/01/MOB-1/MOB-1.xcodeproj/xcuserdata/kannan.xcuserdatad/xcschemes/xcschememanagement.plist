@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>MOB-Lesson1-1.xcscheme</key>
+		<key>MOB-1.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>A2664B861B1C674100B06CA9</key>
+		<key>A2664C401B1C78C000B06CA9</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>A2664B9B1B1C674100B06CA9</key>
+		<key>A2664C551B1C78C000B06CA9</key>
 		<dict>
 			<key>primary</key>
 			<true/>

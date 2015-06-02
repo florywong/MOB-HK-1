@@ -1,6 +1,6 @@
 //
-//  MOB_Lesson1_1Tests.swift
-//  MOB-Lesson1-1Tests
+//  MOB_1Tests.swift
+//  MOB-1Tests
 //
 //  Created by Kannan Chandrasegaran on 1/6/15.
 //  Copyright (c) 2015 Kannan Chandrasegaran. All rights reserved.
@@ -9,7 +9,7 @@
 import UIKit
 import XCTest
 
-class MOB_Lesson1_1Tests: XCTestCase {
+class MOB_1Tests: XCTestCase {
     
     override func setUp() {
         super.setUp()

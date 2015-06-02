@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  MOB-Lesson1-2
+//  MOB-1
 //
 //  Created by Kannan Chandrasegaran on 1/6/15.
 //  Copyright (c) 2015 Kannan Chandrasegaran. All rights reserved.

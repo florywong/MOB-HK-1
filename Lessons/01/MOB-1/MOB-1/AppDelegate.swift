@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  MOB-Lesson1-1
+//  MOB-1
 //
 //  Created by Kannan Chandrasegaran on 1/6/15.
 //  Copyright (c) 2015 Kannan Chandrasegaran. All rights reserved.
